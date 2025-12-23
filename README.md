@@ -41,6 +41,14 @@ VerifiAI aims to create a safer digital ecosystem by empowering users to verify 
 
 ---
 
+## 🚀 Why VerifiAI?
+
+Deepfake content is becoming a serious threat, especially for students and women.
+VerifiAI empowers users to verify digital media before believing or sharing it.
+
+This project is built as part of AIWS 2025–26 to promote digital safety using AI.
+
+
 ## 👩‍💻 Founder
 **Lavanya Saxena**  
 B.Tech Computer Science Engineering  
