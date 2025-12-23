@@ -48,6 +48,11 @@ VerifiAI empowers users to verify digital media before believing or sharing it.
 
 This project is built as part of AIWS 2025–26 to promote digital safety using AI.
 
+## 🔗 Backend–ML Integration
+
+The backend API is now connected to the AI detection module.
+Uploaded media files are processed through a detection pipeline that returns authenticity scores and forensic-style insights.
+
 
 ## 👩‍💻 Founder
 **Lavanya Saxena**  
