@@ -63,5 +63,4 @@ Core Member – AEHIS Cybersecurity Club
 
 ## 📌 Status
 🚧 Currently in ideation and prototype development stage  
-🎯 Built for AIWS 2025–26 Startup Challenge
 
